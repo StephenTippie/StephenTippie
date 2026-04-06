@@ -1,45 +1,56 @@
 # Hi, I’m Stephen Tippie
 
-I’m a systems-oriented builder focused on continuity, structured workflows, reflection-friendly tools, and human-centered software design.
+I’m a systems-minded builder focused on continuity, re-entry, structured thinking, and human-centered software design.
 
-This GitHub profile is my public contribution layer — a place for clean, public-safe artifacts, reproducible patterns, and independent projects that can stand on their own without exposing private architecture or internal product strategy.
+I’m especially interested in the kinds of problems most software tends to ignore: interruption, context loss, overload, fragmented workflows, and the difficulty of picking back up when a person’s capacity has changed. A lot of my work sits at the intersection of workflow design, information architecture, reflective tooling, and practical systems engineering.
 
-## What I work on
+This GitHub profile is my public builder layer — a place for clean, public-safe artifacts, reusable patterns, documentation-first projects, and independent systems work that can stand on its own.
 
-* continuity-aware workflows
-* structured logging and carryover systems
-* human-centered protocol and tool design
-* lightweight documentation-first architecture
-* public-safe framework extraction
+## What I build around
 
-## Featured Work
+- continuity-aware systems
+- structured workflows and carryover design
+- re-entry and context recovery
+- human-centered tools and protocols
+- documentation-first architecture
+- public-safe framework extraction
+- systems that reduce cognitive load instead of adding to it
 
-### Continuity Logging Protocol
+## How I think about building
 
-A lightweight framework for structured personal logging, continuity across sessions, and reflective state tracking.
+I care about making systems usable, durable, and legible over time.
 
-Public beta includes:
+That usually means:
+- clarity over hype
+- structure only when it improves usability
+- continuity before unnecessary complexity
+- provenance and traceability where they matter
+- public-safe by design
+- artifacts that are reproducible, navigable, and easy to re-enter later
 
-* fillable templates
-* examples
-* optional schema support
-* usage and field-definition docs
-* bounded public-safe scope
+## What I’m drawn to
 
-This project is designed to help reduce context loss, preserve carryover between sessions, and create usable summaries without overcomplicating the process.
+I’m most interested in building tools and frameworks that help people:
+- preserve their thread across interruption
+- recover context without starting over
+- work in a more structured but still human way
+- turn rough thinking into stable, usable artifacts
+- interact with software that respects real-life capacity and fragmentation
 
-## How I build
+## What you’ll find here
 
-* clarity over hype
-* structure only when it improves usability
-* public-safe by design
-* reproducible over ornamental
-* systems should reduce context loss, not increase it
+Across my repositories, you’ll likely find work related to:
+- frameworks and protocols
+- structured documentation and system design
+- continuity and state-tracking concepts
+- lightweight tools and architecture experiments
+- public-facing extracts of larger lines of thinking
+- practical patterns for reducing drift, ambiguity, and context loss
 
 ## Current direction
 
-Right now, I’m focused on building small, structured, reusable systems that can help people preserve continuity, maintain context, and interact with software in more human-aware ways.
+Right now, I’m focused on building small, structured, reusable systems that help preserve continuity, support re-entry, and make software feel more aware of how people actually think, pause, forget, resume, and build.
 
 ## Notes
 
-This profile is intentionally scoped to public-safe work and independent contributions.
+This profile is intentionally scoped to public-safe work, independent contributions, and reproducible artifacts.
