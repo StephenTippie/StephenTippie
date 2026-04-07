@@ -2,54 +2,49 @@
 
 I’m a systems-minded builder focused on continuity, re-entry, structured thinking, and human-centered software design.
 
-I’m especially interested in the kinds of problems most software tends to ignore: interruption, context loss, overload, fragmented workflows, and the difficulty of picking back up when a person’s capacity has changed. A lot of my work sits at the intersection of workflow design, information architecture, reflective tooling, and practical systems engineering.
+My perspective comes from working in real-world conditions where interruption, ambiguity, pressure, and shifting capacity are normal. I’m drawn to systems that help people keep their thread, recover context, and continue building without having to start over every time friction shows up.
 
-This GitHub profile is my public builder layer — a place for clean, public-safe artifacts, reusable patterns, documentation-first projects, and independent systems work that can stand on its own.
+A lot of what I build sits at the intersection of workflow design, structured communication, information architecture, reflective tooling, and practical systems engineering. I care less about adding complexity for its own sake and more about making work clearer, more durable, and easier to carry forward.
 
 ## What I build around
 
-- continuity-aware systems
-- structured workflows and carryover design
-- re-entry and context recovery
+- continuity-aware workflows
+- re-entry and carryover design
+- documentation-first systems
+- structured communication and process repair
 - human-centered tools and protocols
-- documentation-first architecture
-- public-safe framework extraction
-- systems that reduce cognitive load instead of adding to it
+- source-aware, traceable artifacts
+- public-safe frameworks and independent build layers
+- systems that reduce ambiguity, cognitive load, and context loss
 
 ## How I think about building
 
-I care about making systems usable, durable, and legible over time.
+I build for real human conditions, not idealized users.
 
 That usually means:
 - clarity over hype
 - structure only when it improves usability
-- continuity before unnecessary complexity
-- provenance and traceability where they matter
-- public-safe by design
-- artifacts that are reproducible, navigable, and easy to re-enter later
-
-## What I’m drawn to
-
-I’m most interested in building tools and frameworks that help people:
-- preserve their thread across interruption
-- recover context without starting over
-- work in a more structured but still human way
-- turn rough thinking into stable, usable artifacts
-- interact with software that respects real-life capacity and fragmentation
+- documentation that supports action, not just description
+- workflows that survive interruption
+- tools that are easier to re-enter later
+- artifacts that stay legible, reusable, and grounded over time
+- boundaries between what is public, what is private, and what should remain intentionally scoped
 
 ## What you’ll find here
 
-Across my repositories, you’ll likely find work related to:
-- frameworks and protocols
-- structured documentation and system design
+Across my GitHub, you’ll find work related to:
+- frameworks, protocols, and templates
+- system design and documentation architecture
 - continuity and state-tracking concepts
-- lightweight tools and architecture experiments
-- public-facing extracts of larger lines of thinking
-- practical patterns for reducing drift, ambiguity, and context loss
+- lightweight tools and workflow experiments
+- public-safe extracts of larger lines of thinking
+- practical structures for reducing drift and preserving context
 
 ## Current direction
 
-Right now, I’m focused on building small, structured, reusable systems that help preserve continuity, support re-entry, and make software feel more aware of how people actually think, pause, forget, resume, and build.
+Right now, I’m focused on building small, structured, reusable systems that help people preserve continuity, recover their footing after interruption, and turn rough or fragmented thinking into usable artifacts.
+
+I’m especially interested in software and documentation patterns that make work more legible, more humane, and more resilient under real-life conditions.
 
 ## Notes
 
